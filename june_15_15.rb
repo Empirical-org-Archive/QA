@@ -16,23 +16,3 @@ summary of changes since master :
 
 
 
-qa these aspects :
-
-  crud accounts
-
-  crud units
-
-  play activity
-  retry activity
-
-
-
-crud accounts
-  create teacher account
-  create student accounts
-  edit teacher account
-  edit student account
-  delete student account
-
-
-
