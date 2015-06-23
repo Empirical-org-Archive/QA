@@ -2,7 +2,7 @@
 General process for qa'ing our apps
 
 
-This is the template for creating a QA doc : https://docs.google.com/spreadsheets/d/1dyjU8X2LBZKxLlk_1ZsZ2ZdJyAVgth0aBnPnZ6yv418/edit?usp=sharing
+This is the template for creating a QA doc : https://docs.google.com/spreadsheets/d/1RvfXmO0i1w_eN-QSVJL1RuYS1-FpGQ8VaXRmc2o4jHw/edit?usp=sharing
 
 To record a QA process, make a copy of the template and fill out the rows of the second column as you go through the QA.
 Name the copy "QA Instance {TestId}" where TestId is the last TestId + 1.
