@@ -4,12 +4,9 @@ precede each name with a testId
 CRUD ACCOUNTS
 
 
-  1) sucessfully create teacher account
-        name : 'test' + testId + '_' + 't1'
+  1) sucessfully create teacher account with name = 'test' + testId + '_' + 't1'
 
-  2) create 3 classrooms
-        name : 'test' + testId + '_' + c_i
-        for c_i in set {c1, c2, c3}
+  2) create 3 classrooms with names = 'test' + testId + '_' + c_i for c_i in set {c1, c2, c3}
 
   # from here on out, a name of the form test3_c1 will be referred to by its abbreviated version c1
 
